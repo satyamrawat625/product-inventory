@@ -1,0 +1,29 @@
+{
+    "first":{
+    "product_id": 654321,
+    "title": "Product A",
+    "price": "15000.00",
+    "sku": "1307A 0101001"
+    },
+    "second":{
+        "product_id": 654322,
+        "title": "Product B",
+        "price": "15023400.00",
+        "sku": "1307A 0101002"
+    },
+  
+    "third":{
+        "product_id": 654323,
+        "title": "Product C",
+        "price": "345000.00",
+        "sku": "1307A 0101003"
+    }
+    ,
+    "fourth":{
+        "product_id": 654324,
+        "title": "Product D",
+        "price": "25000.00",
+        "sku": "1307A 0101004"
+    }
+}
+  
